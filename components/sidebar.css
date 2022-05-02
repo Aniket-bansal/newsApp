@@ -1,0 +1,9 @@
+#sidebar{
+    width: 10%;
+    border: 1px solid;
+    height: 590px;
+    margin-top: 6px;
+}
+h4{
+    cursor: pointer;
+}

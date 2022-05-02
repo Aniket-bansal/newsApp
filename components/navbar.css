@@ -1,0 +1,15 @@
+#navbar{
+    width: 100%;
+    border: 1px solid;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    background-color:bisque;
+}
+#navbar>input{
+    width: 70%;
+    height: 40px;
+    margin-top:5px;
+    margin-right: 60px;
+
+}
